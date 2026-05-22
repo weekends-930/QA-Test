@@ -1,0 +1,5 @@
+#This is to calculate portfolio profit and loss by assets
+
+SELECT current_price
+FROM ticker_symbol
+    
